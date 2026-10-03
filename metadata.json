@@ -1,0 +1,6 @@
+{
+  "name": "MOTO AI ASSISTANT",
+  "description": "Ultra-futuristic cyberpunk robotic AI assistant with continuous voice listening, wake-word activation, Gemini intelligence, and Veo video/image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
